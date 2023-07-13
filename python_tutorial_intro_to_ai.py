@@ -1081,7 +1081,8 @@ Sample String : "abcd4567"
 
 Expected Output : "7654dcba"
 """
-
+str = ["a","b","c","d",4,5,6,7]
+print("str[::-1] = ",str[::-1])
 
 
 """### **(4) Calculate the harmonic sum**
